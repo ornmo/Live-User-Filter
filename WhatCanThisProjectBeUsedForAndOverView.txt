@@ -1,7 +1,17 @@
-This project is made of background images that expand when clicked on. 
+Using RandomUser.me api this project gets registered users and allows the User to filter through them
 
-It uses Flexbox, CSS transitions and JavaScript
+It uses Flexbox, CSS transitions and JavaScript, asynch await and fetch 
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- API practice 
+- Cool little side project 
+
+
+NOTE: Filter function is not working  :-( 
+    cannot search through users. 
+
+    Issue with API initiailly and not sure if filter issue is a subset of that but need to move on. 
+
+    All lines of code checked versus Brad's Github- no indiscrepancies found
+    
